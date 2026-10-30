@@ -1,0 +1,444 @@
+[
+  {
+    "id": "kb_tom_eb",
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "scientific_name": "Alternaria solani",
+    "source_organization": "ICAR - Indian Institute of Horticultural Research (IIHR) / TNAU Agritech",
+    "document_title": "Tomato Early Blight Management Guidelines",
+    "verified_symptoms": [
+      "Concentric dark brown rings with target-board appearance on older leaves",
+      "Yellow halo or chlorotic zone surrounding leaf lesions",
+      "Lower leaves affected first, progressing upwards",
+      "Collar rot on stems and dark leathery sunken spots at stem end of fruit"
+    ],
+    "distinguishing_features": "Concentric rings ('target-board' pattern) distinguish Early Blight from Late Blight (which produces water-soaked irregular lesions with white mould underneath in high humidity).",
+    "favorable_conditions": "Warm temperatures (24-29°C) with alternating wet and dry periods, frequent rains or heavy dew.",
+    "cultural_management": [
+      "Maintain crop hygiene by removing and destroying infected lower leaves and plant debris.",
+      "Avoid overhead sprinkler irrigation to keep foliage dry.",
+      "Ensure proper plant spacing for air circulation and practice 2-3 year crop rotation away from solanaceous crops.",
+      "Mulch soil around plants to prevent soil-splashing of fungal spores onto lower leaves."
+    ],
+    "cautious_notes": "Chemical fungicide selection should strictly follow state agricultural university (SAU) or local KVK package of practices. Avoid arbitrary spraying.",
+    "source_reference": "TNAU Agritech Portal - Crop Protection: Vegetables - Tomato - Alternaria Blight; ICAR-IIHR Technical Bulletin No. 42",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_veg_tomato_1.html",
+    "last_verified": "2025-01-15"
+  },
+  {
+    "id": "kb_tom_lb",
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "scientific_name": "Phytophthora infestans",
+    "source_organization": "ICAR - Central Potato Research Institute (CPRI) & TNAU Agritech",
+    "document_title": "Tomato Late Blight Identification and Management",
+    "verified_symptoms": [
+      "Large, irregular water-soaked pale green lesions on leaves turning brown/purplish-black",
+      "White downy/cottony fungal growth on underside of leaves under humid conditions",
+      "Rapid wilting, browning, and blighting of entire foliage in cool moist weather",
+      "Firm, dark greasy or bronze-colored lesions on green tomato fruits"
+    ],
+    "distinguishing_features": "Water-soaked lesions with white downy mildew underneath in high humidity, and lack of concentric rings, distinguishes it from Early Blight.",
+    "favorable_conditions": "Cool temperatures (15-20°C) with relative humidity exceeding 90% or continuous rainfall/fog.",
+    "cultural_management": [
+      "Immediately rogue out severely blighted plants to prevent rapid field-wide dissemination.",
+      "Space plants adequately to facilitate rapid drying of leaf canopies.",
+      "Avoid excess nitrogenous fertilization which promotes succulent leafy growth vulnerable to blight.",
+      "Provide clean drainage in waterlogged field zones."
+    ],
+    "cautious_notes": "Late blight can destroy an entire field within 7-10 days if unchecked. Contact the nearest KVK immediately for localized advisory.",
+    "source_reference": "ICAR-CPRI Technical Advisory Series; TNAU Agritech Portal Vegetable Crop Protection",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_veg_tomato_2.html",
+    "last_verified": "2025-01-10"
+  },
+  {
+    "id": "kb_tom_bs",
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "scientific_name": "Xanthomonas vesicatoria",
+    "source_organization": "ICAR - Indian Agricultural Research Institute (IARI) / TNAU",
+    "document_title": "Bacterial Spot of Tomato and Pepper - Diagnostic Guide",
+    "verified_symptoms": [
+      "Small (2-3 mm) dark brown water-soaked angular spots on leaves, becoming scabby",
+      "Spots may coalesce causing leaf yellowing and premature defoliation",
+      "Small raised blister-like dark brown scabs on green fruits with white haloes initially"
+    ],
+    "distinguishing_features": "Lesions are angular and water-soaked without concentric rings. Unlike fungal blights, bacterial spot thrives in warm rainy weather and does not produce mycelium.",
+    "favorable_conditions": "Warm temperatures (25-30°C) accompanied by driving rain, wind-driven sand, or overhead irrigation.",
+    "cultural_management": [
+      "Use certified disease-free seeds and seedlings from reputable nurseries.",
+      "Avoid handling or weeding wet plants to prevent mechanical bacterial transmission.",
+      "Practice drip irrigation rather than overhead sprinkling.",
+      "Adopt minimum 2-year rotation with non-solanaceous crops (e.g. cereals, pulses)."
+    ],
+    "cautious_notes": "Bacterial infections do not respond to common fungal fungicides. Expert lab confirmation is advisable before treating.",
+    "source_reference": "TNAU Crop Protection Guide; IARI Plant Pathology Division Disease Fact Sheet 18",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_veg_tomato_3.html",
+    "last_verified": "2025-01-12"
+  },
+  {
+    "id": "kb_tom_lm",
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "scientific_name": "Passalora fulva (syn. Cladosporium fulvum)",
+    "source_organization": "ICAR - National Research Centre for Integrated Pest Management (NCIPM)",
+    "document_title": "Management of Tomato Leaf Mold in Protected & Open Field Cultivation",
+    "verified_symptoms": [
+      "Pale green or pale yellow spots on upper leaf surfaces with indistinct margins",
+      "Olive-green to velvety brown mold growth on the corresponding lower leaf surface",
+      "Leaves curl, wither, and drop prematurely, starting from oldest foliage"
+    ],
+    "distinguishing_features": "Prominent olive-green velvety velvety spore masses on the underside of yellow patches, predominantly found in high humidity or greenhouse conditions.",
+    "favorable_conditions": "High relative humidity (>85%) and moderate temperatures (20-25°C), common in greenhouse or polyhouse setups.",
+    "cultural_management": [
+      "Improve air ventilation and exhaust circulation in polyhouse/greenhouse structures.",
+      "Increase plant spacing and prune lower suckers to enhance sunlight penetration.",
+      "Avoid late evening irrigation that prolongs nighttime leaf wetness."
+    ],
+    "cautious_notes": "Frequently confused with powdery mildew; verify underside velvet spore mats before chemical intervention.",
+    "source_reference": "ICAR-NCIPM Integrated Pest Management Package for Tomato; TNAU Agritech Portal",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_veg_tomato_4.html",
+    "last_verified": "2025-01-08"
+  },
+  {
+    "id": "kb_tom_sls",
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "scientific_name": "Septoria lycopersici",
+    "source_organization": "TNAU Agritech Portal / ICAR-IIHR",
+    "document_title": "Septoria Leaf Spot in Solanaceous Crops",
+    "verified_symptoms": [
+      "Numerous small circular spots (2-3 mm) with dark brown margins and sunken grayish-white centers",
+      "Tiny black specks (pycnidia) visible inside the gray centers with a hand lens",
+      "Severe infection causes lower leaves to turn yellow and drop, exposing fruit to sunscald"
+    ],
+    "distinguishing_features": "Distinctive gray center with tiny black specks (fruiting bodies) and dark border; lesions are smaller and more numerous than Early Blight target spots.",
+    "favorable_conditions": "Warm (20-25°C), wet, and humid conditions; extended leaf wetness.",
+    "cultural_management": [
+      "Remove and burn or compost infected lower leaves as soon as first spots appear.",
+      "Stake and cage tomato plants to keep leaves off the ground.",
+      "Control solanaceous weeds (such as Solanum nigrum) that act as reservoir hosts."
+    ],
+    "cautious_notes": "Early defoliation directly exposes green tomatoes to severe sunscald. Keep soil adequately mulched.",
+    "source_reference": "TNAU Agritech Vegetable Pathology; ICAR IIHR Plant Health Advisory",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_veg_tomato_5.html",
+    "last_verified": "2025-01-14"
+  },
+  {
+    "id": "kb_tom_ylcv",
+    "crop": "Tomato",
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "scientific_name": "Tomato yellow leaf curl virus (TYLCV)",
+    "source_organization": "ICAR - Indian Agricultural Research Institute (IARI) & TNAU",
+    "document_title": "Tomato Yellow Leaf Curl Virus (TYLCV) Management Bulletin",
+    "verified_symptoms": [
+      "Upward curling and cupping of leaflet margins",
+      "Pronounced yellowing (chlorosis) along leaflet margins and interveinal areas",
+      "Severe stunting of young plants and reduced leaf size (bushy appearance)",
+      "Flower abortion and failure to set marketable fruit"
+    ],
+    "distinguishing_features": "Upward curling with marked interveinal yellowing and severe plant stunting. Vector is the sweetpotato whitefly (Bemisia tabaci); not seed-borne.",
+    "favorable_conditions": "Hot, dry conditions favorable for whitefly population build-up; high vector density in neighboring fields.",
+    "cultural_management": [
+      "Install yellow sticky traps (15-20 traps per acre) to monitor and mass-trap whitefly vectors.",
+      "Use nursery nylon nets (40-mesh) to raise whitefly-free seedlings.",
+      "Plant 2-3 border rows of tall barrier crops like maize, sorghum, or pearl millet.",
+      "Rogue out and bury virus-infected plants immediately during early vegetative phase."
+    ],
+    "cautious_notes": "Viral diseases cannot be cured once the plant is infected. Management focuses entirely on vector control and nursery hygiene.",
+    "source_reference": "ICAR-IARI Division of Plant Virology Technical Bulletin; TNAU Agritech Virus Management",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_veg_tomato_6.html",
+    "last_verified": "2025-01-20"
+  },
+  {
+    "id": "kb_tom_mv",
+    "crop": "Tomato",
+    "disease": "Tomato Mosaic Virus",
+    "scientific_name": "Tomato mosaic virus (ToMV)",
+    "source_organization": "ICAR - Indian Institute of Horticultural Research (IIHR)",
+    "document_title": "Tomato Mosaic Virus: Symptoms and Farm Biosecurity",
+    "verified_symptoms": [
+      "Mottling of leaves with alternating light green and dark green mosaic patches",
+      "Distorted, blistered, or strap-like leaves ('shoestring' effect)",
+      "Internal browning in fruit wall ('brown wall') and uneven ripening"
+    ],
+    "distinguishing_features": "Light and dark green mosaic pattern with mechanical transmissibility via contaminated tools, clothes, and hands.",
+    "favorable_conditions": "High plant handling frequency; spreads mechanically via pruners, stakes, and farm laborers.",
+    "cultural_management": [
+      "Wash hands and dip farm tools in 10% trisodium phosphate (TSP) or skimmed milk solution before handling plants.",
+      "Prohibit tobacco smoking/chewing near tomato crops as tobacco products harbor tobamoviruses.",
+      "Select certified resistant cultivars (bearing ToMV resistance genes)."
+    ],
+    "cautious_notes": "Extremely stable virus that survives in dry soil and dead crop residues for months. No chemical cure exists.",
+    "source_reference": "ICAR-IIHR Plant Virology Bulletin; TNAU Agritech",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_veg_tomato_7.html",
+    "last_verified": "2025-01-18"
+  },
+  {
+    "id": "kb_tom_sm",
+    "crop": "Tomato",
+    "disease": "Two-spotted Spider Mite Damage",
+    "scientific_name": "Tetranychus urticae",
+    "source_organization": "ICAR - National Bureau of Agricultural Insect Resources (NBAIR) & TNAU",
+    "document_title": "Tomato Spider Mites Identification and Integrated Management",
+    "verified_symptoms": [
+      "Fine yellow or white stippling (tiny speckles) on upper leaf surface",
+      "Fine silken webbing on undersides of leaves and leaf axils",
+      "Leaves turn bronze, dry up, and drop under severe infestation",
+      "Stunted vine growth and dusty appearance of crop canopy"
+    ],
+    "distinguishing_features": "Stippled speckles accompanied by fine silken web threads on leaf underside; mites visible under 10x lens as tiny reddish/yellow-green dots with dark lateral spots.",
+    "favorable_conditions": "Hot, dry, and dusty weather (temperatures >30°C, low relative humidity).",
+    "cultural_management": [
+      "Spray fine water mist or overhead irrigation periodically to disrupt web structures and reduce dust.",
+      "Preserve natural predatory phytoseiid mites by avoiding broad-spectrum synthetic pyrethroids.",
+      "Remove heavily infested lower leaves and destroy them away from the field."
+    ],
+    "cautious_notes": "Spider mites are arachnids, not insects or fungi; standard insecticides and fungicides will not control them and may exacerbate outbreaks by killing natural enemies.",
+    "source_reference": "ICAR-NBAIR Pest Management Guide; TNAU Agritech Entomology Portal",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insect_veg_tomato_1.html",
+    "last_verified": "2025-01-22"
+  },
+  {
+    "id": "kb_tom_healthy",
+    "crop": "Tomato",
+    "disease": "Healthy Tomato Plant",
+    "scientific_name": "Solanum lycopersicum",
+    "source_organization": "ICAR - Directorate of Onion and Garlic Research / IIHR Good Agricultural Practices",
+    "document_title": "Standard Good Agricultural Practices (GAP) for Tomato Production",
+    "verified_symptoms": [
+      "Vibrant green, uniform foliage without chlorosis, necrotic spotting, or curling",
+      "Stout, firm stems with healthy trichomes (hairs) and no vascular browning",
+      "Normal flower development and uniform fruit set free of lesions or rot"
+    ],
+    "distinguishing_features": "Healthy vigorous foliage displaying typical compound leaf morphology with no signs of fungal lesions, bacterial oozing, or viral distortion.",
+    "favorable_conditions": "Optimal daytime temperatures (21-27°C) and nighttime temperatures (15-20°C) with well-drained loamy soil rich in organic matter.",
+    "cultural_management": [
+      "Maintain balanced N-P-K fertilization and adequate calcium supply to prevent blossom-end rot.",
+      "Adopt regular scouting once weekly to catch pests or foliar spots at early onset.",
+      "Practice drip fertigation to conserve water and keep leaf canopies dry."
+    ],
+    "cautious_notes": "Routine preventive maintenance is better than curative chemical applications. Continue weekly field inspection.",
+    "source_reference": "ICAR Good Agricultural Practices Guide for Vegetable Crops; TNAU Agritech Horticulture",
+    "source_url": "https://agritech.tnau.ac.in/horticulture/horti_vegetables_tomato.html",
+    "last_verified": "2025-01-25"
+  },
+  {
+    "id": "kb_pot_eb",
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "scientific_name": "Alternaria solani",
+    "source_organization": "ICAR - Central Potato Research Institute (CPRI), Shimla",
+    "document_title": "Potato Early Blight Diagnosis and Cultural Control",
+    "verified_symptoms": [
+      "Small dark brown necrotic spots on lower leaves with characteristic concentric rings",
+      "Spots enlarge up to 1 cm, surrounded by yellow chlorotic halo",
+      "Older leaves turn brown and dry up, persisting on stem ('firing' of foliage)",
+      "Tubers may develop dark, sunken, circular lesions with raised purple-brown borders"
+    ],
+    "distinguishing_features": "Concentric rings ('target spots') on foliage without cottony fungal growth on underside distinguish potato early blight from late blight.",
+    "favorable_conditions": "Warm weather (24-30°C) with alternating periods of high humidity/rains and dry sunshine.",
+    "cultural_management": [
+      "Plant certified disease-free seed tubers.",
+      "Maintain vigorous plant nutrition; potassium and nitrogen stress predisposes foliage to Alternaria.",
+      "Avoid overhead sprinkler irrigation and destroy volunteer potato plants and haulms after harvest."
+    ],
+    "cautious_notes": "Ensure proper diagnosis before spraying; early blight symptoms can sometimes be confused with manganese toxicity or senescence.",
+    "source_reference": "ICAR-CPRI Technical Advisory Series - Potato Pathology; TNAU Agritech",
+    "source_url": "https://cpri.icar.gov.in/",
+    "last_verified": "2025-01-16"
+  },
+  {
+    "id": "kb_pot_lb",
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "scientific_name": "Phytophthora infestans",
+    "source_organization": "ICAR - Central Potato Research Institute (CPRI), Shimla",
+    "document_title": "Potato Late Blight Forecast and Management Guidelines",
+    "verified_symptoms": [
+      "Water-soaked irregular pale green lesions on leaves rapidly turning purplish black",
+      "White downy mildew growth on lower leaf surfaces along lesion margin in wet conditions",
+      "Foul odor in severely affected fields due to rapid tissue collapse",
+      "Infected tubers show dry rusty-brown discoloration under the skin penetrating into flesh"
+    ],
+    "distinguishing_features": "Rapid foliar collapse with white mildew on undersides during cool humid weather. Lacks concentric rings of early blight.",
+    "favorable_conditions": "Cool temperatures (10-20°C) with relative humidity above 90% and frequent rains/fog (IHMP criteria).",
+    "cultural_management": [
+      "Adopt CPRI Indo-Blightcast forecasting tool to time preventive interventions.",
+      "Perform high earthing up (ridging) to create an adequate soil barrier preventing zoospore wash-down into tubers.",
+      "Cut haulms (dehaulming) 10-12 days before harvest if late blight appears late in the season."
+    ],
+    "cautious_notes": "Late blight is the most destructive potato disease globally. Consult local KVK or CPRI station immediately upon suspicion.",
+    "source_reference": "ICAR-CPRI Bulletin No. 51: Potato Late Blight in India; Indo-Blightcast",
+    "source_url": "https://cpri.icar.gov.in/",
+    "last_verified": "2025-01-14"
+  },
+  {
+    "id": "kb_pot_healthy",
+    "crop": "Potato",
+    "disease": "Healthy Potato Plant",
+    "scientific_name": "Solanum tuberosum",
+    "source_organization": "ICAR - Central Potato Research Institute (CPRI)",
+    "document_title": "Healthy Potato Seed Plot Scheme and Agronomy",
+    "verified_symptoms": [
+      "Lush, upright green foliage without mosaic, leaf rolling, or necrotic lesions",
+      "Strong haulm growth with clean subterranean stolon initiation",
+      "Healthy white feeder roots free of cysts or galls"
+    ],
+    "distinguishing_features": "Uniformly developed compound leaves showing healthy green coloration and normal turgor with zero signs of water-soaking, necrotic rings, or aphid clusters.",
+    "favorable_conditions": "Cool sunny days and cool nights (15-20°C optimum for tuberization) with sandy loam soil of pH 5.2 - 6.4.",
+    "cultural_management": [
+      "Follow CPRI Seed Plot Technique for aphid-free healthy seed production.",
+      "Maintain adequate soil moisture during stolon formation and tuber bulking stages.",
+      "Scout for aphid vectors and early blight lesions weekly."
+    ],
+    "cautious_notes": "Maintain good earthing-up to prevent greening of tubers from sunlight exposure.",
+    "source_reference": "ICAR-CPRI Seed Production Manual",
+    "source_url": "https://cpri.icar.gov.in/",
+    "last_verified": "2025-01-20"
+  },
+  {
+    "id": "kb_pep_bs",
+    "crop": "Bell Pepper",
+    "disease": "Bacterial Spot",
+    "scientific_name": "Xanthomonas campestris pv. vesicatoria",
+    "source_organization": "ICAR - Indian Institute of Horticultural Research (IIHR) / TNAU",
+    "document_title": "Bacterial Spot of Capsicum (Bell Pepper): Identification and Cultural Practices",
+    "verified_symptoms": [
+      "Small yellow-green circular to irregular spots on leaves, becoming dark brown with water-soaked borders",
+      "Severe infection causes general chlorosis and heavy defoliation, exposing fruits to sunscald",
+      "Raised rough circular warts or scabs on bell pepper fruits"
+    ],
+    "distinguishing_features": "Water-soaked brown lesions with dark edges; defoliation from bottom upwards. Note: Bell Pepper is Capsicum annuum (sweet/blocky type); distinct from hot chili varieties.",
+    "favorable_conditions": "Warm (24-30°C), humid weather with frequent rains or overhead sprinkling.",
+    "cultural_management": [
+      "Use certified disease-free seeds or hot-water seed treatment (50°C for 25 minutes).",
+      "Sanitize plant stakes, trellises, and greenhouse benches between seasons.",
+      "Ensure proper row spacing and drip irrigation to avoid wet canopies."
+    ],
+    "cautious_notes": "Bacterial spot cannot be controlled by conventional anti-fungal treatments. Do not confuse bell pepper with hot chili.",
+    "source_reference": "ICAR-IIHR Vegetable Health Advisory; TNAU Agritech Capsicum Protection",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_veg_chillies.html",
+    "last_verified": "2025-01-11"
+  },
+  {
+    "id": "kb_pep_healthy",
+    "crop": "Bell Pepper",
+    "disease": "Healthy Bell Pepper Plant",
+    "scientific_name": "Capsicum annuum grossum",
+    "source_organization": "ICAR-IIHR / TNAU Agritech",
+    "document_title": "Protected Cultivation of Bell Pepper (Capsicum): Standard Practices",
+    "verified_symptoms": [
+      "Smooth, dark green, glossy leaves with crisp texture and intact margins",
+      "Strong branching architecture with vigorous flower buds and clean calyxes",
+      "Firm, well-formed four-lobed blocky fruits free of blemishes"
+    ],
+    "distinguishing_features": "Uniform dark green foliage without mottling, blistering, or leaf margin burning.",
+    "favorable_conditions": "Daytime temperatures 25-28°C, nighttime temperatures 18-20°C in well-ventilated naturally ventilated polyhouses or open fields.",
+    "cultural_management": [
+      "Practice two-shoot or four-shoot trellising systems for optimum light interception.",
+      "Monitor for thrips and mites under leaf surfaces using blue and yellow sticky traps.",
+      "Ensure steady fertigation with calcium and potassium to prevent blossom-end rot."
+    ],
+    "cautious_notes": "Inspect polyhouse screen netting regularly to prevent pest entry.",
+    "source_reference": "ICAR-IIHR Capsicum Production Manual; TNAU Polyhouse Guide",
+    "source_url": "https://agritech.tnau.ac.in/horticulture/horti_vegetables_capsicum.html",
+    "last_verified": "2025-01-22"
+  },
+  {
+    "id": "kb_corn_cr",
+    "crop": "Corn (Maize)",
+    "disease": "Common Rust",
+    "scientific_name": "Puccinia sorghi",
+    "source_organization": "ICAR - Indian Institute of Maize Research (IIMR), Ludhiana",
+    "document_title": "Maize Rust Diagnosis and Cultural Management Bulletin",
+    "verified_symptoms": [
+      "Small, powdery, oval to elongate cinnamon-brown pustules scattered across both upper and lower leaf surfaces",
+      "Pustules rupture epidermal tissue, releasing powdery rusty-red fungal spores on fingers upon touching",
+      "As season advances, pustules turn dark brownish-black containing teliospores"
+    ],
+    "distinguishing_features": "Pustules appear on BOTH leaf surfaces (unlike Southern Rust which is predominantly on upper surface) and produce cinnamon-brown powdery rub-off spores.",
+    "favorable_conditions": "Cool to moderate temperatures (16-25°C) with high relative humidity (>95%) and dew.",
+    "cultural_management": [
+      "Sow resistant maize hybrids recommended by ICAR-IIMR for your agro-ecological zone.",
+      "Ensure timely early planting to avoid peak rust sporulation periods.",
+      "Balance nitrogen fertilizer with adequate potash to improve plant cell wall tolerance."
+    ],
+    "cautious_notes": "Common rust rarely causes severe yield loss in mature corn unless infection occurs before silking on susceptible inbreds.",
+    "source_reference": "ICAR-IIMR Maize Diseases and Management Manual; TNAU Agritech Maize Pathology",
+    "source_url": "https://iimr.icar.gov.in/",
+    "last_verified": "2025-01-19"
+  },
+  {
+    "id": "kb_corn_nlb",
+    "crop": "Corn (Maize)",
+    "disease": "Northern Leaf Blight",
+    "scientific_name": "Exserohilum turcicum",
+    "source_organization": "ICAR - Indian Institute of Maize Research (IIMR)",
+    "document_title": "Northern Corn Leaf Blight (Turcicum Leaf Blight) Management",
+    "verified_symptoms": [
+      "Long, elliptical, cigar-shaped grayish-green to tan lesions (2.5 - 15 cm long)",
+      "Lesions develop on lower leaves first and spread upward",
+      "During damp weather, dark grayish velvety fungal spore masses develop within lesions"
+    ],
+    "distinguishing_features": "Cigar-shaped elongated elliptical lesions along veins; differs from Gray Leaf Spot which produces rectangular lesions bounded strictly by leaf veins.",
+    "favorable_conditions": "Moderate temperatures (18-27°C) accompanied by heavy dews and high humidity.",
+    "cultural_management": [
+      "Deep plowing of crop residues to bury overwintering fungal mycelia.",
+      "Practice crop rotation with non-host crops (e.g. soybean, pulses, cotton).",
+      "Use certified resistant hybrid varieties."
+    ],
+    "cautious_notes": "Severe blighting prior to silking leads to premature plant death and poor ear fill. Seek local KVK advice.",
+    "source_reference": "ICAR-IIMR Technical Bulletin: Turcicum Leaf Blight; TNAU Agritech",
+    "source_url": "https://iimr.icar.gov.in/",
+    "last_verified": "2025-01-17"
+  },
+  {
+    "id": "kb_grape_br",
+    "crop": "Grape",
+    "disease": "Black Rot",
+    "scientific_name": "Guignardia bidwellii (syn. Phyllosticta ampelicida)",
+    "source_organization": "ICAR - National Research Centre for Grapes (NRCG), Pune",
+    "document_title": "Grape Black Rot Symptoms and Vineyard Canopy Sanitation",
+    "verified_symptoms": [
+      "Small circular reddish-brown leaf spots with dark brown margins and tiny black specks (pycnidia)",
+      "Infected berries turn pale, then brown, shriveling into hard, wrinkled black mummies within days",
+      "Black sunken cankers on green shoots, petioles, and tendrils"
+    ],
+    "distinguishing_features": "Berry mummification where grapes become hard, wrinkled, black shriveled raisin-like mummies persisting on clusters.",
+    "favorable_conditions": "Warm (20-27°C) and rainy weather with long hours of leaf wetness.",
+    "cultural_management": [
+      "Prune and remove all mummified fruit clusters and infected canes during dormancy.",
+      "Manage vineyard trellis canopy to allow maximum sunlight and rapid foliage drying.",
+      "Cultivate vineyard soil to bury fallen infected leaf and berry mummies."
+    ],
+    "cautious_notes": "Early season protection from budbreak through fruit set is critical. Consult ICAR-NRCG seasonal advisories.",
+    "source_reference": "ICAR-NRCG Pune Extension Bulletin: Grape Disease Management; TNAU Agritech",
+    "source_url": "https://nrcgrapes.icar.gov.in/",
+    "last_verified": "2025-01-15"
+  },
+  {
+    "id": "kb_apple_scab",
+    "crop": "Apple",
+    "disease": "Apple Scab",
+    "scientific_name": "Venturia inaequalis",
+    "source_organization": "ICAR - Central Institute of Temperate Horticulture (CITH), Srinagar / Dr. YSP UHF Nauni",
+    "document_title": "Apple Scab Management and Orchard Sanitation Guide",
+    "verified_symptoms": [
+      "Olive-green to velvety brown circular spots on leaf undersides and upper surfaces",
+      "Spots darken and become thickened, causing leaf distortion and premature leaf fall",
+      "Rough, corky, olive-brown to black scabby lesions on fruit surface leading to cracking"
+    ],
+    "distinguishing_features": "Velvety olive-green spots turning scabby and corky; fruit skin develops corky cracked scabs.",
+    "favorable_conditions": "Cool (15-22°C), wet weather during bud break and petal fall periods.",
+    "cultural_management": [
+      "Spray 5% urea on apple foliage just before leaf fall in autumn to accelerate leaf decomposition and destroy pseudothecia.",
+      "Prune apple trees to ensure open center and proper air movement through canopy.",
+      "Plow orchard floor in early spring to bury overwintered leaves."
+    ],
+    "cautious_notes": "Scab ascospore release is strongly tied to temperature and leaf wetness hours (Mills period). Monitor local state horticulture department warnings.",
+    "source_reference": "ICAR-CITH Technical Advisory; Himachal Pradesh Horticulture Department Apple Spray Schedule",
+    "source_url": "https://cith.icar.gov.in/",
+    "last_verified": "2025-01-12"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "national_helplines": [
+    {
+      "name": "Kisan Call Center (Ministry of Agriculture & Farmers Welfare, Govt of India)",
+      "toll_free_number": "1800-180-1551",
+      "operational_hours": "06:00 AM to 10:00 PM (All 7 Days)",
+      "languages": "22 regional languages including Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi, Bengali, etc.",
+      "service_type": "Direct telephonic agricultural expert consultation for crop diseases, weather advisory, and scheme details",
+      "official_portal": "https://agricoop.nic.in/en/kisan-call-center",
+      "is_verified": true
+    },
+    {
+      "name": "ICAR - Krishi Vigyan Kendra (KVK) Portal",
+      "portal_url": "https://kvk.icar.gov.in/",
+      "purpose": "Official Government of India portal to locate your district KVK, submit plant pathology queries, and view local weather & pest alerts",
+      "total_kvks_in_india": 731,
+      "search_guide": "Select your State and District on the portal to locate your specific KVK scientist and phone number.",
+      "is_verified": true
+    },
+    {
+      "name": "mKisan Portal (Government of India SMS Advisory)",
+      "portal_url": "https://mkisan.gov.in/",
+      "purpose": "SMS-based advisories from agricultural scientists and meteorological departments",
+      "is_verified": true
+    }
+  ],
+  "verified_regional_kvks": [
+    {
+      "kvk_name": "Krishi Vigyan Kendra, Kattupakkam (Kanchipuram District, Tamil Nadu)",
+      "host_institution": "Tamil Nadu Veterinary and Animal Sciences University (TANUVAS) / ICAR",
+      "state": "Tamil Nadu",
+      "district": "Kanchipuram / Chengalpattu",
+      "location": "Kattupakkam, Kattankulathur Post, Chengalpattu Dist - 603203",
+      "official_website": "https://kvk.icar.gov.in/",
+      "focus_crops": ["Paddy", "Vegetables (Tomato, Brinjal, Bhendi)", "Groundnut", "Dairy"],
+      "verification_status": "Verified via ICAR KVK Directory",
+      "verification_date": "2025-01-15"
+    },
+    {
+      "kvk_name": "Krishi Vigyan Kendra, Baramati (Pune District, Maharashtra)",
+      "host_institution": "Agricultural Development Trust, Baramati / ICAR",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "location": "Sharadanagar, Baramati, Dist. Pune - 413115",
+      "official_website": "https://kvkbaramati.com",
+      "focus_crops": ["Sugarcane", "Grape", "Pomegranate", "Vegetables", "Dairy"],
+      "verification_status": "Verified via ICAR KVK Directory",
+      "verification_date": "2025-01-15"
+    },
+    {
+      "kvk_name": "Krishi Vigyan Kendra, Shimla (Himachal Pradesh)",
+      "host_institution": "ICAR - Central Potato Research Institute (CPRI), Shimla",
+      "state": "Himachal Pradesh",
+      "district": "Shimla",
+      "location": "ICAR-CPRI, Shimla - 171001",
+      "official_website": "https://cpri.icar.gov.in/",
+      "focus_crops": ["Apple", "Potato", "Temperate Fruits", "Off-season Vegetables"],
+      "verification_status": "Verified via ICAR KVK Directory",
+      "verification_date": "2025-01-15"
+    },
+    {
+      "kvk_name": "Krishi Vigyan Kendra, Hirehalli (Tumakuru District, Karnataka)",
+      "host_institution": "ICAR - Indian Institute of Horticultural Research (IIHR)",
+      "state": "Karnataka",
+      "district": "Tumakuru",
+      "location": "Hirehalli Post, Tumakuru - 572168",
+      "official_website": "https://iihr.res.in/",
+      "focus_crops": ["Arecanut", "Tomato", "Capsicum / Bell Pepper", "Mango", "Papaya"],
+      "verification_status": "Verified via ICAR KVK Directory",
+      "verification_date": "2025-01-15"
+    }
+  ],
+  "disclaimer": "Contact numbers and addresses are verified against official ICAR / Department of Agriculture records. If your district is not listed above, please access the official ICAR KVK portal (https://kvk.icar.gov.in) or call the toll-free Kisan Call Center at 1800-180-1551 to reach your nearest designated scientist."
+}
