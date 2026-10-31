@@ -11,6 +11,16 @@
 
 ---
 
+## 🎬 UI & Platform Demonstration
+
+<div align="center">
+  <img src="docs/demo.gif" alt="HACKMINT Live UI Demonstration" width="100%" />
+  <p><em>Live UI Walkthrough: OpenCV Blur Quality Gate, MobileNetV2 Inference across 38 crop classes, Multimodal Symptom Cross-Checking, and KVK Escalation.</em></p>
+  <p><a href="docs/demo.mp4">▶️ View / Download Full Resolution MP4 Recording (30 MB)</a></p>
+</div>
+
+---
+
 ## 🌾 Project Overview
 
 Farmers frequently face crop damage due to misdiagnosed diseases or delayed agricultural advice. Existing generic vision models often hallucinate confident predictions on out-of-focus photos or unsupported crops, risking crop loss from inappropriate chemical spraying.
